@@ -30,7 +30,7 @@ if (loc !== 'howtohtmlcss') {
         '    <li><a href="/content/css/1.html">What to use it for</a></li>\n' +
         '    <li><a href="/content/css/2.html">Rules, Declarations and Properties</a></li>\n' +
         '    <li><a href="/content/css/3.html">Cascading</a></li>\n' +
-        '    <li><a href="/content/css/4.html">Box Model, margins, borders and paddings</a></li>\n' +
+        '    <li><a href="/content/css/5.html">Box Model, margins, borders and paddings</a></li>\n' +
         '    <li><a href="/content/css/5.html">FlexBox</a></li>\n' +
         '</ul>');
       break;
