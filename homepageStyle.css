@@ -10,51 +10,34 @@ h1{
 	padding-top: 1em;
 	padding-bottom: 1em;
 }
-.menu-container {
-	display:flex;
-	justify-content: center;
-  color: #fff;
-  background-color: #5995DA;  /* Blue */
-  padding: 20px 0;
-}
 
-.menu {
-	display:flex;
-	justify-content: space-around;
-  border: 1px solid #fff;  /* For debugging */
-  width: 900px;
+h3{
+		font-weight:bold;
 }
-
-.links {
-  border: 1px solid #fff;  /* For debugging */
-  display: flex;
-  justify-content: flex-end;
-}
-
-.login {
-  margin-left: 20px;
-}
-
 .photo-grid-container {
   display: flex;
-	background-color: grey;
+	/* background-color: grey; */
   justify-content: center;
 }
 
 .photo-grid {
   width: 1200px;
-	background-color: coral;
+	/* background-color: coral; */
   display: flex;
   justify-content: center;  /* Change this */
   flex-wrap: wrap;
 }
 
 .photo-grid-item{
-	background-color: red;
+	/* background-color: red; */
 	padding:10px;
 }
 .photo-grid-item img{
   border: 1px solid #fff;
 	width: 400px;
 	height:300px;
+}
+
+footer{
+	text-align: right;
 }
